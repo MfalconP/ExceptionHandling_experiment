@@ -1,0 +1,45 @@
+Throws(/0) time: 57600 ns, iterations: 1
+Try(/0) time: 12800 ns, iterations: 1
+
+Throws(arrayIndex) time: 34200 ns, iterations: 1
+Try(arrayIndex) time: 9300 ns, iterations: 1
+
+
+
+
+Throws(/0) time: 569600 ns, iterations: 100
+Try(/0) time: 525700 ns, iterations: 100
+
+Throws(arrayIndex) time: 833600 ns, iterations: 100
+Try(arrayIndex) time: 626500 ns, iterations: 100
+
+
+
+
+Throws(/0) time: 8059000 ns, iterations: 1000
+Try(/0) time: 8017800 ns, iterations: 1000
+
+Throws(arrayIndex) time: 6137300 ns, iterations: 1000
+Try(arrayIndex) time: 5970200 ns, iterations: 1000
+
+
+
+
+Throws(/0) time: 11340000 ns, iterations: 10000
+Try(/0) time: 45329300 ns, iterations: 10000
+
+Throws(arrayIndex) time: 9083800 ns, iterations: 10000
+Try(arrayIndex) time: 31056900 ns, iterations: 10000
+
+
+
+
+Throws(/0) time: 23300500 ns, iterations: 10000
+Try(/0) time: 66307100 ns, iterations: 10000
+
+Throws(arrayIndex) time: 16240200 ns, iterations: 10000
+Try(arrayIndex) time: 48823800 ns, iterations: 10000
+
+
+
+
